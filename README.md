@@ -4,7 +4,7 @@ This file will contain all of the notable changes made during our project.
 ## [1.0.0] - 2018/03/07 - https://github.com/vkhorozian/www/releases/tag/1.0.0
 
 ### Added
--Added switch statements to process rabbitmq messages.
+-Added switch statements to process rabbitmq messages. 
 -Created the client so it would run as a function called from any page.
 -Some test scripts utilizing DJ's code for front end communication.
 -Partially completed login scripts.
