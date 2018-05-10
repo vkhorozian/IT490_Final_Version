@@ -84,5 +84,9 @@ Have it work with rabbit
 -API calling to make it dynamically choose the key for the data that it needs from the script in the functions file. 
 -Chart to make it fully operational.
 
+REGARDING THE GROUPS WORK DISTRIBUTION:
 
+Mendoza (Doza) & Chipman Both brought forth plenty of work in order to complete this project and between the three of us we worked together to complete the current project.
+
+Justin Helped out with as much as he could but I felt that he was slightly un-equipt to manage some of these larger tasks in PHP. He focused on the HTML AND CSS for the website which did come out really nice if i might say.
 
