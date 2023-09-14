@@ -1,4 +1,4 @@
-# IT490_Final_Version#CryptoBros Change Log - Richard Chipman, Richard Mendoza, Varouj , Justin 
+# IT490_Final_Version#CryptoBros Change Log - Varoujan Khorozian, Richard Chipman, Richard Mendoza,  , Justin 
 This file will contain all of the notable changes made during our project.
 
 ## [1.0.0] - 2018/03/07 - https://github.com/vkhorozian/www/releases/tag/1.0.0
